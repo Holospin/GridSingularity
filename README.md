@@ -1,6 +1,6 @@
 # GridSingularity
 
-Suite of 3 automated tests which check for the following:
+Suite of 3 automated tests made using Selenium IDE, which do the following:
 
 The first test logins in the user, then checks to see if the control pannel is active, which means the user is logged in, then logs the user out.
 
